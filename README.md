@@ -1,5 +1,5 @@
-#Hello, guys! 👋 <br/>
-<p align="center"> My name is Vitória, but you can call me Vivi. ✨ <br/> <br/>
+<p align="center"> Hello, guys! 👋 <br/>
+My name is Vitória, but you can call me Vivi. ✨ <br/> <br/>
 <img src="https://media.tenor.com/jLQH5AO5lWsAAAAC/loona-chuu.gif" width="140" height="140">
 <br/><br/>
 
