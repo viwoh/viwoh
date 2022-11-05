@@ -1,5 +1,5 @@
 Hello, guys! 👋 My name is Vitória, but you can call me Vivi. ✨ <br/><br/>
-<img src="https://media.tenor.com/jLQH5AO5lWsAAAAC/loona-chuu.gif" width="250" height="250"> <br/><br/>
+<img src="https://media.tenor.com/jLQH5AO5lWsAAAAC/loona-chuu.gif" width="100" height="100"> <br/> <br/>
 
 I'm a student at Institute of Computing. <br/>
 I'm focused on DevOps and Cybersecurity. 💖<br/>
@@ -7,7 +7,7 @@ I'm focused on DevOps and Cybersecurity. 💖<br/>
 Fun facts about me: I love kpop girlgroups, Chainsaw Man and dogs! 😊<br/>
 
 
-<div><a href="https://github.com/viwoh"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viwoh&layout=compact&langs_count=7&theme=dracula"/><img height="180em" src="https://github-readme-stats.vercel.app/api?username=viwoh&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></div>
-<br/><br/>
+<div><a href="https://github.com/viwoh"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viwoh&layout=compact&langs_count=7&theme=dracula"/> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viwoh&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> </div>
+<br/> <br/>
 
-![Snake animation](https://github.com/viwoh/viwoh/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/viwoh/viwoh/blob/output/github-contribution-grid-snake.gif)
