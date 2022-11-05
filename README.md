@@ -1,6 +1,6 @@
 Hello, guys! 👋 My name is Vitória, but you can call me Vivi. ✨ <br/> <br/>
 <p align="center"> 
-<img src="https://media.tenor.com/jLQH5AO5lWsAAAAC/loona-chuu.gif" width="100" height="100">
+<img src="https://media.tenor.com/jLQH5AO5lWsAAAAC/loona-chuu.gif" width="150" height="150">
 </p>
 <br/><br/>
 
