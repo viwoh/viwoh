@@ -1,5 +1,5 @@
 Hello, guys! 👋 My name is Vitória, but you can call me Vivi. ✨ <br/>
-<img src="https://media.tenor.com/jLQH5AO5lWsAAAAC/loona-chuu.gif" width="90" height="90"/> <br/>
+<img src="https://media.tenor.com/jLQH5AO5lWsAAAAC/loona-chuu.gif"> <br/>
 
 I'm a student at Institute of Computing. <br/>
 I'm focused on DevOps and Cybersecurity. 💖<br/>
