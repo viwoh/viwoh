@@ -1,13 +1,13 @@
-<p align="center">Hello, guys! 👋<br/><br/>
+#<p align="center">Hello, guys! 👋<br/><br/>
   
-My name is Vitória, but you can call me Vivi. ✨ <br/><br/>
+##My name is Vitória, but you can call me Vivi. ✨ <br/><br/>
 <img src="https://media.tenor.com/jLQH5AO5lWsAAAAC/loona-chuu.gif" width="140" height="140">
 <br/><br/>
 
 I'm a student at Institute of Computing. <br/>
 I'm focused on DevOps and Cybersecurity. 💖<br/>
 
-Fun facts about me: I love kpop girlgroups, Chainsaw Man and dogs! 😊<br/><br/>
+###Fun facts about me: I love kpop girlgroups, Chainsaw Man and dogs! 😊<br/><br/>
 
 
 <p align="center">
