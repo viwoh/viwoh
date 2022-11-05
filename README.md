@@ -1,8 +1,6 @@
-##Hello, guys! 👋 My name is Vitória, but you can call me Vivi. ✨
-
-
-##I'm a student at Institute of Computing. 
-##I'm focused on DevOps and Cybersecurity. 💖
+Hello, guys! 👋 My name is Vitória, but you can call me Vivi. ✨
+I'm a student at Institute of Computing. 
+I'm focused on DevOps and Cybersecurity. 💖
 
 Fun facts about me: I love kpop girlgroups, Chainsaw Man and dogs! 😊
 
