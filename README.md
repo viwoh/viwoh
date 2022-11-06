@@ -19,3 +19,4 @@ Fun facts about me: I love kpop girlgroups, Chainsaw Man and dogs! 😊<br/><br/
 <br/> <br/>
 
 ![snake gif](https://github.com/viwoh/viwoh/blob/output/github-contribution-grid-snake.gif)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
