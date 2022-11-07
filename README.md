@@ -11,6 +11,7 @@ Fun facts about me: I love kpop girlgroups, Chainsaw Man and dogs! 😊<br/><br/
 
 
 <p align="center">
+  I'm studying: <br/>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,mysql,github,kubernetes,docker,py,java,aws" />
   </a>
