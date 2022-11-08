@@ -1,4 +1,4 @@
-Hello, guys! 👋
+Hello, people! 👋
 
 My name is Vitória, I'm a student at Institute of Computing and I love Cybersecurity and DevOps. <br/>
 
