@@ -1,17 +1,12 @@
 Hello, guys! 👋
-  
-My name is Vitória, but you can call me Vivi. ✨<br/><br/>
-<img src="https://media.tenor.com/jLQH5AO5lWsAAAAC/loona-chuu.gif" width="140" height="140">
-<br/><br/>
 
-I'm a student at Institute of Computing. <br/>
-I'm focused on DevOps and Cybersecurity. 💖<br/>
+My name is Vitória, I'm a student at Institute of Computing and I love Cybersecurity and DevOps. <br/>
 
-Fun facts about me: I love kpop girlgroups, Chainsaw Man and dogs! 😊<br/><br/>
 
+<img src="https://media.tenor.com/yp_aFUgHMx8AAAAC/nakanoart-nakanodrawing.gif" width="240" height="240">
 
 <p align="center">
-  I'm studying: <br/>
+ 		I'm studying: <br/>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,mysql,github,kubernetes,docker,py,java,aws" />
   </a>
