@@ -1,12 +1,13 @@
 Hello, people! 👋
 
-My name is Vitória, I'm a student at Institute of Computing and I love Cybersecurity and DevOps. <br/>
+My name is Vitória, I'm a graduating student at Institute of Computing. I'm also taking the CCNA Cisco's course. <br/>
+I love Cybersecurity and DevOps 💖 <br/> 
+I hope we can share knowledge and learn together! :)
 
-
-<img src="https://media.tenor.com/yp_aFUgHMx8AAAAC/nakanoart-nakanodrawing.gif" width="240" height="240">
+<img src="https://media.tenor.com/nyp9Twq3gMAAAAAC/thumbs-up-approve.gif" width="340" height="240">
 
 <p align="center">
- 		I'm studying: <br/>
+ 		I'm working with: <br/>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,mysql,github,kubernetes,docker,py,java,aws" />
   </a>
