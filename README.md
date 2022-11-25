@@ -21,6 +21,7 @@ class ComputingStudent:
 me = ComputingStudent()
 me.say_hi()
 ```
+<p align="center"> <img src="https://media.giphy.com/media/TS2JorWBhMUq5QCAkH/giphy.gif" weight = "150" height = "150">
 
 <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F73FDC&width=435&lines=I'm+working+with%3A+" alt="Typing SVG" /> </a> <br/> <br/>
 
