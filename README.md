@@ -1,17 +1,29 @@
-Hello, people! 👋
 
-My name is Vitória, I'm a graduating student at Institute of Computing. I'm also taking the CCNA Cisco's course. <br/>
-I love Cybersecurity and DevOps 💖 <br/> 
-I hope we can share knowledge and learn together! :)
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
-<img src="https://media.tenor.com/nyp9Twq3gMAAAAAC/thumbs-up-approve.gif" width="340" height="240">
+class ComputingStudent:
 
-<p align="center">
- 		I'm working with: <br/>
+    def __init__(self):
+        self.name = "Vitória"
+        self.pronouns = "she/her"
+        self.age = "22"
+        self.location = "Brazil"
+        self.role = "Student at Institute of Computing"
+        self.areas = "Cybersecurity", "Information Security", "DevOps", "Infrastructure"
+        self.language_spoken = ["pt_BR", "en_US"]
+
+    def say_hi(self):
+        print("I hope we can share knowledge and learn together!")
+
+
+me = ComputingStudent()
+me.say_hi()
+```
+
+<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F73FDC&width=435&lines=I'm+working+with%3A+" alt="Typing SVG" /> </a> <br/> <br/>
+
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,mysql,github,kubernetes,docker,py,java,aws" />
+    <img src="https://skillicons.dev/icons?i=linux,mysql,github,kubernetes,docker,py,java,aws">
   </a>
-
-<div><a href="https://github.com/viwoh"> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viwoh&layout=compact&langs_count=7&theme=dracula"/> <img height="150em" src="https://github-readme-stats.vercel.app/api?username=viwoh&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> </div>
-<br/> <br/>
-
