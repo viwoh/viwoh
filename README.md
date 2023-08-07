@@ -8,7 +8,7 @@ class ComputingStudent:
     def __init__(self):
         self.name = "Vitória"
         self.pronouns = "she/her"
-        self.age = "22"
+        self.age = "23"
         self.location = "Brazil"
         self.role = "Student at Institute of Computing"
         self.areas = "Cybersecurity", "Information Security", "DevOps", "Infrastructure"
