@@ -11,7 +11,7 @@ class ComputingStudent:
         self.age = "23"
         self.location = "Brazil"
         self.role = "Student at Institute of Computing"
-        self.areas = "Cybersecurity", "Information Security", "DevOps", "Infrastructure"
+        self.areas = "Cybersecurity", "Red Team"
         self.language_spoken = ["pt_BR", "en_US"]
 
     def say_hi(self):
